@@ -23,6 +23,7 @@ There are a growing number of tools that leverage AI to assist developers write 
 	* [Bolt](#Bolt)
 	* [Lovable](#Lovable)
 * [Agents](#Agents)
+	* [OpenWork](#OpenWork)
 	* [Devin](#Devin)
 	* [Copilot Workspaces](#CopilotWorkspaces)
 	* [GitHub Copilot Agent Mode](#GitHubCopilotAgentMode)
@@ -259,6 +260,18 @@ Lovable.dev is an AI-powered platform designed to simplify and accelerate web ap
 - **Real-Time Collaboration** – Supports live rendering, instant undo, and collaborative branching, enabling seamless teamwork on the same project.
 
 ## <a name='Agents'></a>Agents
+
+### <a name='OpenWork'></a>OpenWork
+
+| Released   | Cost             | Open source | From   |
+|------------|------------------|-------------|--------|
+| 2026   | Free   | Yes          | [OpenWork](https://github.com/different-ai/openwork) |
+
+OpenWork is a desktop GUI for OpenCode that surfaces sessions, skills, plugins, and templates in a guided workflow.
+
+- **OpenCode under the hood** – Runs locally and connects to your OpenCode workspace.
+- **Workflow UI** – Presents plans, progress, and artifacts in a polished desktop interface.
+- **Extensible** – Installs and manages OpenCode skills and plugins from within the app.
 
 ### <a name='Devin'></a>Devin
 
